@@ -1,11 +1,11 @@
-# VoteBot FOR Make.co
+# VoteBot
 Selenium Based Auto Voting Bot w/ IP rotations
 
 ## Voting Website:
-https://Make.co
+Not important
 
 ## Bot in Action:
-https://www.youtube.com/watch?v=HECG7FQRXqc&t=2s
+======================(hidden)
 
 ## Features:
 Automatic account, password, name, birthday generations, and signing up.
