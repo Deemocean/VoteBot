@@ -4,6 +4,9 @@ Selenium Based Auto Voting Bot w/ IP rotations Based on Selenium
 ## Voting Website:
 https://Make.co
 
+## Bot in Action:
+https://www.youtube.com/watch?v=HECG7FQRXqc&t=2s
+
 ## Features:
 Automatic account, password, name, birthday generations, and signing up.
 Note: IP rotation is achieved by using 3rd party services
