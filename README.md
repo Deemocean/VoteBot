@@ -1,5 +1,5 @@
 # VoteBot FOR Make.co
-Selenium Based Auto Voting Bot w/ IP rotations Based on Selenium
+Selenium Based Auto Voting Bot w/ IP rotations
 
 ## Voting Website:
 https://Make.co
